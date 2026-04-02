@@ -11,11 +11,17 @@ I created TheraPatch to help people recover from sports-related injuries and min
 
 Here are images of my project
 
-3D model with my project:
+3D model with my PCB:
+
 <img width="369" height="338" alt="CaseTop" src="https://github.com/user-attachments/assets/13792dfa-c5c9-42dc-b432-33d044172cd8" />
 
+My 3D model by itself:
 
 <img width="576" height="487" alt="CASE" src="https://github.com/user-attachments/assets/6b6083a2-c586-4ae9-bc2e-2925b46fe53e" />
+
+
+Link to Onshape case:
+https://cad.onshape.com/documents/42b88acdea95ca2d6ca5d2dd/w/0a431a4c711744f2617bcd3a/e/731c74bdddadee31c15ff64c
 
 
 PCB (Signal Layer and ground):
