@@ -26,10 +26,10 @@ Link to Onshape case:[
 
 PCB (Signal Layer and ground):
 
-Signal:
+Top Side:
 <img width="797" height="699" alt="Screenshot 2026-04-02 at 12 40 11 AM" src="https://github.com/user-attachments/assets/95ffc66c-5db7-4819-9efb-4e837f8b5a39" />
 
-Ground:
+Bottom Side:
 
 <img width="808" height="690" alt="Screenshot 2026-04-02 at 12 40 48 AM" src="https://github.com/user-attachments/assets/4f88023d-cfa0-4b3b-8ba9-6ad0c4edbfee" />
 
