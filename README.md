@@ -83,23 +83,4 @@ https://cad.onshape.com/documents/d627d659f05dae60588ec801/w/ad74ef98cd2d7a13cb5
 
 
 
-
 ## Bill of Materials
-
-| Item | Qty | Unit Price | Total | Description |
-|------|-----|-----------|-------|-------------|
-| Fan | 1 | $4.81 | $4.81 | Facilitate heating & cooling |
-| Peltier (TEC1-12703) | 1 | $3.90 | $3.90 | Cool and heat |
-| Heatsink | 2 | $4.80 | $9.79 | Dissipate heat |
-| LCD screen (SH1106) | 1 | $0.99 | $0.99 | Displaying modes |
-| Thermistor | 1 | $0.95 | $0.95 | Temp measuring |
-| Battery (3S 3500mAh) | 1 | $26.99 | $26.99 | Main power source (mobility) + BMS |
-| Wire (20 AWG) | 1 | $2.23 | $2.23 | Battery caddy, Peltier, fan extension |
-| Wall adapter | 1 | $1.28 | $1.28 | 2nd power source (1st is battery) |
-| M2 screw 8mm | 100 | $0.01 | $1.35 | Screws for battery caddy |
-| M2 screw 14mm | 100 | $0.01 | $1.35 | Screws for main case |
-| Dupont connectors | 40 | $0.03 | $1.01 | Connectors for LCD and ISP programmer |
-| ISP programmer | 1 | $1.91 | $1.91 | Flashes code onto the ATmega chip |
-| Buttons | 20 | $0.11 | $2.19 | Switching between menus & start/stop |
-
-
