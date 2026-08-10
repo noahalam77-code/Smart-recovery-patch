@@ -26,20 +26,19 @@ Here are images of my project
 
 
 
-## CAD with the PCB:
+## CAD imgaes:
 
-<img width="491" height="524" alt="Screenshot 2026-07-04 at 1 53 12 PM" src="https://github.com/user-attachments/assets/c9aa02cf-47bf-4d0b-9159-3f62e53c6c75" />
+<img width="429" height="397" alt="Screenshot 2026-08-09 at 6 42 45 PM" src="https://github.com/user-attachments/assets/e3da079d-7a6d-417d-bea8-266de2f1a4cb" />
 
-<img width="860" height="535" alt="Screenshot 2026-07-04 at 1 53 32 PM" src="https://github.com/user-attachments/assets/61e79f9d-1325-4d9e-8768-30e69478cb92" />
+<img width="445" height="416" alt="Screenshot 2026-08-09 at 6 43 09 PM" src="https://github.com/user-attachments/assets/c8001384-66b0-4dd1-9379-d071714def0f" />
+
+
+
 
 
 ## CAD input ports, fins, and Peliter hole
 
-<img width="576" height="519" alt="Screenshot 2026-07-04 at 1 54 11 PM" src="https://github.com/user-attachments/assets/8a456222-b25e-43ab-94a3-2ddde18c2c22" />
 
-<img width="739" height="498" alt="Screenshot 2026-07-04 at 1 55 22 PM" src="https://github.com/user-attachments/assets/37d6ade7-3b82-45b5-abc2-69d01d795669" />
-
-<img width="366" height="356" alt="Screenshot 2026-07-04 at 1 55 41 PM" src="https://github.com/user-attachments/assets/d9225b02-e006-4cde-81e3-795e07dad236" />
 
 ## Link to Onshape case:
 
