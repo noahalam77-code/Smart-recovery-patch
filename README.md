@@ -28,17 +28,22 @@ Here are images of my project
 
 ## CAD imgaes:
 
-<img width="429" height="397" alt="Screenshot 2026-08-09 at 6 42 45 PM" src="https://github.com/user-attachments/assets/e3da079d-7a6d-417d-bea8-266de2f1a4cb" />
+<img width="440" height="451" alt="Screenshot 2026-08-10 at 1 15 55 PM" src="https://github.com/user-attachments/assets/c15609c2-a2a2-4e04-b2e7-7e8d180c72fd" />
 
-<img width="445" height="416" alt="Screenshot 2026-08-09 at 6 43 09 PM" src="https://github.com/user-attachments/assets/c8001384-66b0-4dd1-9379-d071714def0f" />
+<img width="458" height="447" alt="Screenshot 2026-08-10 at 1 16 25 PM" src="https://github.com/user-attachments/assets/c0d7e281-70d0-416c-b16d-1b68f178614c" />
 
-
-
-
+<img width="534" height="475" alt="Screenshot 2026-08-10 at 1 16 42 PM" src="https://github.com/user-attachments/assets/a15a55d6-835d-4a79-bf49-57c7dc293a17" />
 
 
+<img width="427" height="314" alt="Screenshot 2026-08-10 at 1 17 00 PM" src="https://github.com/user-attachments/assets/ae47411f-7d10-4e34-88b2-06d27212470c" />
 
-## CAD input ports, fins, and Peliter hole
+<img width="624" height="435" alt="Screenshot 2026-08-10 at 1 17 14 PM" src="https://github.com/user-attachments/assets/f935707b-eb92-4c2b-829b-d3fa1bd01b33" />
+
+<img width="334" height="332" alt="Screenshot 2026-08-10 at 1 17 29 PM" src="https://github.com/user-attachments/assets/d61d6b62-c86a-49cb-a2f8-f13deb1a6905" />
+
+<img width="584" height="519" alt="Screenshot 2026-08-10 at 1 17 42 PM" src="https://github.com/user-attachments/assets/cabaa267-e84c-4eca-b1ca-c5b258914f7b" />
+
+<img width="662" height="498" alt="Screenshot 2026-08-10 at 1 17 55 PM" src="https://github.com/user-attachments/assets/7269eac7-2967-4d93-a5cd-7ef22c971389" />
 
 
 
