@@ -28,7 +28,8 @@ Here are images of my project
 
 ## CAD imgaes:
 
-<img width="440" height="451" alt="Screenshot 2026-08-10 at 1 15 55 PM" src="https://github.com/user-attachments/assets/c15609c2-a2a2-4e04-b2e7-7e8d180c72fd" />
+<img width="564" height="537" alt="Screenshot 2026-08-10 at 1 19 23 PM" src="https://github.com/user-attachments/assets/c323247b-75eb-438f-8ffa-5efdbab4ba76" />
+
 
 <img width="458" height="447" alt="Screenshot 2026-08-10 at 1 16 25 PM" src="https://github.com/user-attachments/assets/c0d7e281-70d0-416c-b16d-1b68f178614c" />
 
